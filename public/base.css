@@ -1,0 +1,15 @@
+.body {
+    display: flex
+}
+
+.one-third {
+    border: 1px solid;
+    width: 33%;
+    height: 500px;
+    padding-left: 5px;
+}
+
+.green {
+    color: green;
+    background-color: greenyellow;
+}
